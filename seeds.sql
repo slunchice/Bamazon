@@ -1,0 +1,10 @@
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Cinderella', 'Books', '7.50', '40');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('My Little Pony', 'Toys', '10.50', '30');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Peppa Pig', 'Video', '21.50', '60');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('PJ Masks', 'Video', '15.50', '40');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Moana', 'Books', '7.50', '50');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Puppies', 'Books', '5.50', '40');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Mickey Mouse', 'Books', '7.50', '32');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Paw Patrol', 'Video', '17.50', '30');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Cats', 'Books', '7.50', '50');
+INSERT INTO `bamazon`.`products` (`product_name`, `department_name`, `price`, `stock_quantity`) VALUES ('Snow White', 'Books', '7.00', '40');
